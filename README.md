@@ -28,6 +28,10 @@ cd pomodoro-time-counter
 
 Ensure you have Python installed on your machine. Tkinter is included with most Python installations.
 
+## Image Assets
+
+The `tomato.png` image is used as a visual element in the application. It represents the Pomodoro technique, inspired by the Italian word for tomato. You can find the image in the project directory. If you want to customize the appearance, feel free to replace it with your own tomato-themed image!
+
 ## Usage
 
 Run the application using:
